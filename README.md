@@ -15,16 +15,13 @@ I'm an explorer of new tech, an avid learner, and a problem-solver at heart. Whe
 
 Feel free to connect with me @josydomalexis for all things tech or just to say hello! Let's shape the future of tech together. 🌟
 
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 <!--
-Joined Github **5** years ago.
-
-Since then I pushed **2878**+ commits, opened **229**+ issues, submitted **322**+ pull requests, created **20**+ gists and contributed to **9**+ public repositories.
 
 Like My Work?
 
-<a href="https://www.buymeacoffee.com/iampavangandhi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+
 
 ### Talking about Personal Stuff:
 
