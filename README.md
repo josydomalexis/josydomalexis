@@ -9,7 +9,7 @@
 
 I am an illustrator, Icon designer, Animator, Web designer & Web Developer currently learning MERN development. 🚀
 
-I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in Javascript, Nodejs, MongoDB, React, expressjs, Digital Ocean etc. I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not in code, you'll find me watching tech-related YouTube videos, fueling my curiosity.
+I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in Javascript, Nodejs, MongoDB, React, expressjs, Digital Ocean etc. I'm an explorer of new tech, an avid learner, and a problem-solver at heart.
 
 Feel free to connect with me @josydomalexis for all things tech or just to say hello! Let's shape the future of tech together. 🌟
 
