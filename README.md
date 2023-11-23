@@ -9,20 +9,16 @@
 
 I am an illustrator, Icon designer, Animator, Web designer & Web Developer currently learning MERN development. 🚀
 
-I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in Javascript, Nodejs, MongoDB, React, Nextjs, AWS, etc. I've led diverse tech teams covering Frontend, Backend, Machine Learning and DevOps and building scalable products from scratch with the commitment to making a positive impact through technology.
-
-I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not in code, you'll find me watching tech-related YouTube videos, fueling my curiosity.
+I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in Javascript, Nodejs, MongoDB, React, expressjs, Digital Ocean etc. I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not in code, you'll find me watching tech-related YouTube videos, fueling my curiosity.
 
 Feel free to connect with me @josydomalexis for all things tech or just to say hello! Let's shape the future of tech together. 🌟
-<figure>
-	<img align="left" height="250" width="375" alt="" src="https://helpx.adobe.com/content/dam/help/en/illustrator/using/Illustrator-on-ipad/jcr_content/main-pars/multi_column/col-50-50-c1/image/whats_new_tile_1.png" />
-	<figcaption>Illustrator</figcaption>
-</figure>
 
-<figure>
-	<img align="left" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
-	<figcaption>Coder</figcaption>
-</figure>
+<img align="left" height="150" width="150" alt="" src="https://github.com/josydomalexis/josydomalexis/blob/master/illustration.gif" />
+<img align="left" height="150" width="200" alt="" src="https://github.com/josydomalexis/josydomalexis/blob/master/icon%20design.gif" />
+<img align="left" height="150" width="150" alt="" src="https://github.com/josydomalexis/josydomalexis/blob/master/animator.gif" />
+<img align="left" height="150" width="200" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+
+
 <!--
 
 Like My Work?
