@@ -15,7 +15,7 @@ Feel free to connect with me @josydomalexis for all things tech or just to say h
 
 <img align="left" height="150" width="150" alt="" src="https://github.com/josydomalexis/josydomalexis/blob/master/illustration.gif" />
 <img align="left" height="150" width="200" alt="" src="https://github.com/josydomalexis/josydomalexis/blob/master/icon%20design.gif" />
-<img align="left" height="150" width="150" alt="" src="https://github.com/josydomalexis/josydomalexis/blob/master/animator.gif" />
+<!-- <!img align="left" height="150" width="150" alt="" src="https://github.com/josydomalexis/josydomalexis/blob/master/animator.gif" /> -->
 <img align="left" height="150" width="200" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 
